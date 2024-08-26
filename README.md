@@ -1,1 +1,1 @@
-# recepie-web
+# odin-recipes
